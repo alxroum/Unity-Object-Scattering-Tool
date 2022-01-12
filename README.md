@@ -20,6 +20,6 @@ master Empty to a prefab in the editor,  in the "Resources" folder. This makes i
 Due to the fact that the generation is random, in its current state objects CAN intersect with each other.
 
 (note: this script works when the game is started, so keeping it on the script on the GameObject after it has 
-been used is discouraged, due to the fact that it will re-scatter the objects every time you hit play).
+been used is discouraged due to the fact that it will re-scatter the objects every time you hit play).
 
 Enjoy!
